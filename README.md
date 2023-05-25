@@ -48,11 +48,11 @@ pip install google-api-python-client streamlit pymongo mysql-connector-python pa
 
 
 ## PLACING MY SCREENSHOT HOW IT WORKS:
-
+![Screenshot (7)](https://github.com/preky777/Yoututbe_Harvest_Warehouse/assets/107749942/880acecf-1bef-4a2a-9840-607c096727db)
 ## MY MONGODB COMPASS UPLOADED CHANNEL DATA:
-
+![Screenshot (8)](https://github.com/preky777/Yoututbe_Harvest_Warehouse/assets/107749942/88143cdf-bbcc-472f-8fc0-f67434dd35a2)
 ## MY SQL SCREENSHOTS:
-
+![Screenshot (9)](https://github.com/preky777/Yoututbe_Harvest_Warehouse/assets/107749942/ed4277bb-eb93-4bb2-94b0-53fa1cf762ec)
 ## LINK TO VIEW IN YOUR BROWSER:
 Local URL: http://localhost:8501
 
